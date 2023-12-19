@@ -1,6 +1,7 @@
 {
   "name": "custom-mse",
   "version": "0.1.0",
+  "proxy": "localhost:3000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
